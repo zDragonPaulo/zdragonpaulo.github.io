@@ -23,28 +23,50 @@ header {
     padding: 20px 20px;
 }
 
-header nav ul {
+.icon-home {
+    width: 40px;
+    height: 40px;
+    border: 2px solid transparent; /* Borda padrão */
+    border-radius: 50%; /* Torna a borda circular */
+    transition: border-color 0.3s;
+}
+
+.icon-home:hover {
+    border-color: #ff0000; /* Borda vermelha no hover */
+}
+
+header nav {
+    display: flex;
+    justify-content: space-between; /* Espaço entre a esquerda e o centro */
+    align-items: center;
+}
+
+.left-menu, .center-menu {
     list-style: none;
     display: flex;
     gap: 15px;
     padding: 0;
     margin: 0;
-    justify-content: center;
-    align-items: center;
+}
+
+.center-menu {
+    justify-content: center; /* Centraliza o menu do meio */
+    flex-grow: 1; /* Faz com que a lista central ocupe o espaço disponível */
 }
 
 header nav ul li a {
-    color: #ff8484; /* Branco */
+    color: #ff8484;
     text-decoration: none;
     padding: 8px 12px;
     border: 2px solid transparent;
     transition: 0.3s;
 }
 
-header nav ul li a:hover {
+.center-menu li a:hover {
     color: #ff0000; /* Vermelho no hover */
     border-color: #ff0000; /* Borda vermelha no hover */
 }
+
 
 /* Estilos para o rodapé */
 footer {
@@ -180,3 +202,5 @@ h1, h2, h3, h4, h5, h6 {
 .portfolio-container aside img:hover {
     transform: scale(1.05);
 }
+
+

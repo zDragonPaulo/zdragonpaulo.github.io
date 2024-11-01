@@ -2,14 +2,16 @@ function includeHeaderAndFooter() {
     let headerText = `
     <header>
         <nav>
-            <ul>
+            <ul class="left-menu">
+                <li><a href="index.html"><img class="icon-home" src="/resources/dragon.png" alt="Curriculum Vitae"></a></li>
+            </ul>
+            <ul class="center-menu">
                 <li><a href="cv.html">Curricúlo</a></li>
                 <li><a href="portfolio.html">Portfólio</a></li>
             </ul>
         </nav>
     </header>
     `;
-
     let footerText =`
     <footer>
         <p>Feito por Paulo Abade. Todos os Direitos Reservados ©</p>
@@ -23,5 +25,7 @@ function includeHeaderAndFooter() {
     document.body.prepend(headerElement.firstElementChild);
     document.body.appendChild(footerElement.firstElementChild);
 }
+
+
 
 document.addEventListener("DOMContentLoaded", includeHeaderAndFooter);
