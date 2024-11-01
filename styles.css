@@ -138,15 +138,16 @@ h1, h2, h3, h4, h5, h6{
 .image-list img {
     width: auto;
     height: 300px;
-    border: 2px solid #ff0000; /* Borda vermelha em imagens */
-    background-color: #fff; /* Fundo branco para as imagens */
-    padding: 10px; /* Espaço entre a imagem e a borda */
+    border: 2px solid #ff0000; 
+    border-radius: 12px;
+    background-color: #fff; 
+    padding: 10px; 
     transition: transform 0.3s ease;
     margin-bottom: 20px;
 }
 
 .image-list img:hover {
-    transform: scale(1.05); /* Leve zoom ao passar o mouse */
+    transform: scale(1.05); 
 }
 
 .cv-container {
