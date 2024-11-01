@@ -5,6 +5,7 @@ html, body {
 }
 
 body {
+    min-height: 100vh;
     display: flex;
     flex-direction: column; /* Organiza os elementos verticalmente */
     background-color: #333;
@@ -23,6 +24,10 @@ header {
     padding: 20px 20px;
 }
 
+.main-content {
+    flex-grow: 1; /* Expande para ocupar o espaço disponível */
+}
+
 .icon-home {
     width: 40px;
     height: 40px;
@@ -34,6 +39,7 @@ header {
 .icon-home:hover {
     border-color: #ff0000; /* Borda vermelha no hover */
 }
+
 
 header nav {
     display: flex;
@@ -52,6 +58,20 @@ header nav {
 .center-menu {
     justify-content: center; /* Centraliza o menu do meio */
     flex-grow: 1; /* Faz com que a lista central ocupe o espaço disponível */
+}
+
+.center-info {
+    
+    display: flex;
+    gap: 5%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.center-info p {
+    color: #ff8484;
 }
 
 header nav ul li a {
@@ -88,7 +108,7 @@ a:hover {
 }
 
 /* Estilo para títulos */
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6{
     margin: 10px;
     color: #ff8484; /* Vermelho para os títulos */
 }
@@ -122,6 +142,7 @@ h1, h2, h3, h4, h5, h6 {
     background-color: #fff; /* Fundo branco para as imagens */
     padding: 10px; /* Espaço entre a imagem e a borda */
     transition: transform 0.3s ease;
+    margin-bottom: 20px;
 }
 
 .image-list img:hover {
@@ -176,7 +197,7 @@ h1, h2, h3, h4, h5, h6 {
     max-width: 50%;
     max-height: 100%;
     padding: 10px;
-    padding-bottom: 250px;
+    padding-bottom: 150px;
 }
 
 .portfolio-container article p {
