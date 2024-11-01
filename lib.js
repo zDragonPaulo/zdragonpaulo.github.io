@@ -3,7 +3,7 @@ function includeHeaderAndFooter() {
     <header>
         <nav>
             <ul class="left-menu">
-                <li><a href="index.html"><img class="icon-home" src="/resources/dragon.png" alt="Inicio"></a></li>
+                <li><a href="index.html"><img class="icon-home" src="resources/dragon.png" alt="Inicio"></a></li>
             </ul>
             <ul class="center-menu">
                 <li><a href="cv.html">Curricúlo</a></li>
