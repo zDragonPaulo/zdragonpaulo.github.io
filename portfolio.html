@@ -13,53 +13,72 @@
 <body>
     <div class="main-content">
         <h1 class="title-page">Portfólio</h1>
-        <div class="portfolio-container">
-            <article>
-                <h2>Áreas que tenho gosto de praticar:</h2>
-                <p>Área das Redes</p>
-                <p>Área das Bases de Dados</p>
-                <p>Área da Engenharia de Software e Sistemas de Informação</p>
-                <h2>Projetos:</h2>
-                <h3>COTR - SAGRA</h2>
-                    <p>É um projeto que escolhemos no âmbito da Unidade Curricular de Projeto Integrado. Eu e o Martinho
-                        Caeiro estamos a ser supervisionados pelos Docentes Isabel Sofia Brito
-                        e Luís Miguel Tavares.
-                    </p>
-                    <h3>MyAnimeCollection:</h2>
+        <div class="carousel-container">
+            <div class="carousel">
+                <!-- Item 1 -->
+                <div class="carousel-item">
+                    <a hhref="javascript:void(0);" onclick="alert('Este projeto não pode ser divulgado completamente por questões de política de privacidade!')">
+                    <img src="/resources/portfolio/LogoCOTR.jpg" alt="Projeto Atual - COTR">
+                    </a>
+                    <div class="carousel-text">
+                        <p>É um projeto que escolhemos no âmbito da Unidade Curricular de Projeto Integrado. Este projeto tem o objetivo
+                            de automatizar a recolha, a transformação e o carregamento de dados nos Sistemas da COTR. <br> Eu e o
+                            Martinho Caeiro, estamos a ser supervisionados pelos Docentes Isabel Sofia Brito e Luís
+                            Miguel Tavares.</p>
+                    </div>
+                </div>
+
+                <!-- Item 2 -->
+                <div class="carousel-item">
+                    <a href="https://github.com/zDragonPaulo/MyAnimeCollection">
+                    <img src="/resources/portfolio/LogoMyAnimeCollection.png"
+                        alt="Projeto Anterior - MyAnimeCollection">
+                    </a>
+                    <div class="carousel-text">
                         <p>Foi um projeto que fiz em conjunto com o Martinho Caeiro, com o objetivo de fazer a nossa
-                            versão da plataforma <a href="https://myanimelist.net">MyAnimeList</a>,
-                            no âmbito da disciplina de Tecnologias Web e Ambientes Móveis</p>
-                        <p>Este ainda vai ser modificado, para suportar a nossa Base de Dados utilizando o PhP Lavarel
-                            com o MySQL Server e não ficar dependente de uma Base de Dados Gratuita
-                            e uma API que nós não podemos modificar livremente
-                        </p>
-                        <h3>Redes de Computadores</h3>
-                        <p>No âmbito das Unidades Curricúlares de Redes de Computadores I e II, fizemos projetos
-                            utilizando tecnologia da Cisco e Mikrotik simultâneamente.
-                            Estas Unidades Curricúlares despertaram mais o meu interesse do que as outras devido ao
-                            absolutismo das mesmas, de funcionar ou não funcionar.
-                        </p>
-                        <p>
-                            Atualmente, no âmbito da Unidade Curricular Segurança de Redes de Computadores, estamos a
-                            fazer um projeto que vai passar por várias componentes das Redes,
-                            porém especial foco na Segurança. Após uma conversa entre colegas e com o Docente Rui Silva,
-                            está a ser planeado um Projeto de Final de Curso relacionado com
-                            esta parte da Informática.
-                        </p>
-                    <h3>Atenção!</h3>
-                    <p>Algum conteúdo não está disponível devido à Política de Privacidade da Empresa que está a ser feita a colaboração!</p>
-            </article>
-            <aside>
-                <a href="https://github.com/zDragonPaulo/COTR_SAGRA"><img src="/resources/portfolio/LogoCOTR.jpg" alt="Projeto Atual - COTR"></a>
-                <a href="https://github.com/zDragonPaulo/MyAnimeCollection"><img src="/resources/portfolio/LogoMyAnimeCollection.png" alt="Projeto Anterior - MyAnimeCollection"></a>
-                <a href="https://www.cisco.com"><img src="/resources/portfolio/LogoCisco.jpg" alt="Projeto Anterior - Parte Cisco"></a>
-                <a href="https://mikrotik.com"><img src="/resources/portfolio/LogoMikroTik.jpg" alt="Projeto Anterior - Parte Mikrotik"></a>
-            </aside>
+                            versão da plataforma MyAnimeList, no âmbito da disciplina de Tecnologias Web e Ambientes
+                            Móveis.</p>
+                    </div>
+                </div>
+
+                <!-- Item 3 -->
+                <div class="carousel-item">
+                    <a href="https://www.cisco.com">
+                    <img src="/resources/portfolio/LogoCisco.jpg" alt="Projeto Anterior - Parte Cisco">
+                </a>
+                    <div class="carousel-text">
+                        <p>No âmbito das Unidades Curriculares de Redes de Computadores I e II, fizemos projetos
+                            utilizando tecnologia da Cisco e Mikrotik simultaneamente.</p>
+                        <p>Atualmente, no âmbito da Unidade Curricular Segurança de Redes de Computadores, estamos a
+                            fazer um projeto que vai passar por várias componentes das Redes, porém especial foco na
+                            Segurança.
+                            Após uma conversa entre colegas e com o Docente Rui Silva, está a ser planeado um Projeto de
+                            Final de Curso relacionado com esta parte da Informática.</p>
+                    </div>
+                </div>
+
+                <!-- Item 4 -->
+                <div class="carousel-item">
+                    <a href="https://mikrotik.com">
+                    <img src="/resources/portfolio/LogoMikroTik.jpg" alt="Projeto Anterior - Parte Mikrotik">
+                </a>
+                    <div class="carousel-text">
+                        <p>No âmbito das Unidades Curriculares de Redes de Computadores I e II, fizemos projetos
+                            utilizando tecnologia da Cisco e Mikrotik simultaneamente.</p>
+                        <p>Atualmente, no âmbito da Unidade Curricular Segurança de Redes de Computadores, estamos a
+                            fazer um projeto que vai passar por várias componentes das Redes, porém especial foco na
+                            Segurança.
+                            Após uma conversa entre colegas e com o Docente Rui Silva, está a ser planeado um Projeto de
+                            Final de Curso relacionado com esta parte da Informática.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Botões de navegação -->
+            <button class="carousel-button prev">🠔</button>
+            <button class="carousel-button next">🠖</button>
         </div>
     </div>
 </body>
-
-
-
 
 </html>

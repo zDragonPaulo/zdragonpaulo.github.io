@@ -26,6 +26,28 @@ function includeHeaderAndFooter() {
     document.body.appendChild(footerElement.firstElementChild);
 }
 
+document.addEventListener("DOMContentLoaded", function () {
+    includeHeaderAndFooter();
 
+    const carousel = document.querySelector('.carousel');
+    const items = document.querySelectorAll('.carousel-item');
+    let currentIndex = 0;
 
-document.addEventListener("DOMContentLoaded", includeHeaderAndFooter);
+    function showItem(index) {
+        const offset = -index * 100;
+        carousel.style.transform = `translateX(${offset}%)`;
+    }
+
+    document.querySelector('.carousel-button.prev').addEventListener('click', function () {
+        currentIndex = (currentIndex > 0) ? currentIndex - 1 : items.length - 1;
+        showItem(currentIndex);
+    });
+
+    document.querySelector('.carousel-button.next').addEventListener('click', function () {
+        currentIndex = (currentIndex < items.length - 1) ? currentIndex + 1 : 0;
+        showItem(currentIndex);
+    });
+
+    // Inicializa o carrossel mostrando o primeiro item
+    showItem(currentIndex);
+});
