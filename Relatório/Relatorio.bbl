@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.3 $
+% $ biblatex bbl format version 3.2 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -18,8 +18,111 @@
 
 
 \refsection{0}
-  \datalist[entry]{apa/apasortcite//global/global/global}
-    \entry{europass}{online}{}{}
+  \datalist[entry]{apa/apasortcite//global/global}
+    \entry{freecss}{online}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=57aac9b505ede5fcfb4d5e2c6b8ab763}{%
+           family={CSS},
+           familyi={C\bibinitperiod},
+           given={Free},
+           giveni={F\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{57aac9b505ede5fcfb4d5e2c6b8ab763}
+      \strng{fullhash}{57aac9b505ede5fcfb4d5e2c6b8ab763}
+      \strng{bibnamehash}{57aac9b505ede5fcfb4d5e2c6b8ab763}
+      \strng{authorbibnamehash}{57aac9b505ede5fcfb4d5e2c6b8ab763}
+      \strng{authornamehash}{57aac9b505ede5fcfb4d5e2c6b8ab763}
+      \strng{authorfullhash}{57aac9b505ede5fcfb4d5e2c6b8ab763}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Templates de sites gratuitos}
+      \field{title}{Free CSS | 3193 Free Website Templates, CSS Templates and Open Source Templates}
+      \field{urlday}{23}
+      \field{urlmonth}{11}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.free-css.com/template-categories/portfolio
+      \endverb
+      \verb{url}
+      \verb https://www.free-css.com/template-categories/portfolio
+      \endverb
+    \endentry
+    \entry{stacked}{online}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=daf1f6f74356c0b6adaa6706e0b12ec1}{%
+           family={CSS},
+           familyi={C\bibinitperiod},
+           given={TemplateMo\bibnamedelimb -\bibnamedelima Free},
+           giveni={T\bibinitperiod\bibinitdelim \bibinithyphendelim \bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{daf1f6f74356c0b6adaa6706e0b12ec1}
+      \strng{fullhash}{daf1f6f74356c0b6adaa6706e0b12ec1}
+      \strng{bibnamehash}{daf1f6f74356c0b6adaa6706e0b12ec1}
+      \strng{authorbibnamehash}{daf1f6f74356c0b6adaa6706e0b12ec1}
+      \strng{authornamehash}{daf1f6f74356c0b6adaa6706e0b12ec1}
+      \strng{authorfullhash}{daf1f6f74356c0b6adaa6706e0b12ec1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Modelo de portfolio}
+      \field{title}{Modelo Stacked - Free CSS}
+      \field{urlday}{23}
+      \field{urlmonth}{11}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.free-css.com/free-css-templates/page242/stacked
+      \endverb
+      \verb{url}
+      \verb https://www.free-css.com/free-css-templates/page242/stacked
+      \endverb
+    \endentry
+    \entry{gitpages}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e1adbcbb92c622d0b3e619f9d0730abf}{%
+           family={Github},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{e1adbcbb92c622d0b3e619f9d0730abf}
+      \strng{fullhash}{e1adbcbb92c622d0b3e619f9d0730abf}
+      \strng{bibnamehash}{e1adbcbb92c622d0b3e619f9d0730abf}
+      \strng{authorbibnamehash}{e1adbcbb92c622d0b3e619f9d0730abf}
+      \strng{authornamehash}{e1adbcbb92c622d0b3e619f9d0730abf}
+      \strng{authorfullhash}{e1adbcbb92c622d0b3e619f9d0730abf}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Serviço de hospedagem de sites gratuito}
+      \field{title}{GitHub Pages - Websites for you and your projects.}
+      \field{urlday}{23}
+      \field{urlmonth}{11}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.wix.com/
+      \endverb
+      \verb{url}
+      \verb https://www.wix.com/
+      \endverb
+    \endentry
+    \entry{europass}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=427960bda70af244255836c78922479c}{%
            family={União\bibnamedelima Europeia},
@@ -27,12 +130,10 @@
       }
       \strng{namehash}{427960bda70af244255836c78922479c}
       \strng{fullhash}{427960bda70af244255836c78922479c}
-      \strng{fullhashraw}{427960bda70af244255836c78922479c}
       \strng{bibnamehash}{427960bda70af244255836c78922479c}
       \strng{authorbibnamehash}{427960bda70af244255836c78922479c}
       \strng{authornamehash}{427960bda70af244255836c78922479c}
       \strng{authorfullhash}{427960bda70af244255836c78922479c}
-      \strng{authorfullhashraw}{427960bda70af244255836c78922479c}
       \field{sortinit}{U}
       \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
       \field{extradatescope}{labelyear}
@@ -42,7 +143,7 @@
       \field{labeltitlesource}{title}
       \field{note}{Criador de CV online}
       \field{title}{EUROPASS}
-      \field{urlday}{13}
+      \field{urlday}{23}
       \field{urlmonth}{11}
       \field{urlyear}{2024}
       \field{year}{2024}
@@ -52,46 +153,114 @@
       \endverb
       \verb{url}
       \verb https://europa.eu/europass/eportfolio/screen/cv-editor?lang=pt
-      \endverb
-    \endentry
-    \entry{wix}{online}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=c4864f72bea486b18e3ffd467756e7a7}{%
-           family={WIX},
-           familyi={W\bibinitperiod}}}%
-      }
-      \strng{namehash}{c4864f72bea486b18e3ffd467756e7a7}
-      \strng{fullhash}{c4864f72bea486b18e3ffd467756e7a7}
-      \strng{fullhashraw}{c4864f72bea486b18e3ffd467756e7a7}
-      \strng{bibnamehash}{c4864f72bea486b18e3ffd467756e7a7}
-      \strng{authorbibnamehash}{c4864f72bea486b18e3ffd467756e7a7}
-      \strng{authornamehash}{c4864f72bea486b18e3ffd467756e7a7}
-      \strng{authorfullhash}{c4864f72bea486b18e3ffd467756e7a7}
-      \strng{authorfullhashraw}{c4864f72bea486b18e3ffd467756e7a7}
-      \field{sortinit}{W}
-      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{Criador de Portfólio online}
-      \field{title}{WIX - Crie um website sem limites}
-      \field{urlday}{13}
-      \field{urlmonth}{11}
-      \field{urlyear}{2024}
-      \field{year}{2024}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb https://www.wix.com/
-      \endverb
-      \verb{url}
-      \verb https://www.wix.com/
       \endverb
     \endentry
   \enddatalist
-  \datalist[entry]{apa/global//global/global/global}
-    \entry{europass}{online}{}{}
+  \datalist[entry]{apa/global//global/global}
+    \entry{freecss}{online}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=57aac9b505ede5fcfb4d5e2c6b8ab763}{%
+           family={CSS},
+           familyi={C\bibinitperiod},
+           given={Free},
+           giveni={F\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{57aac9b505ede5fcfb4d5e2c6b8ab763}
+      \strng{fullhash}{57aac9b505ede5fcfb4d5e2c6b8ab763}
+      \strng{bibnamehash}{57aac9b505ede5fcfb4d5e2c6b8ab763}
+      \strng{authorbibnamehash}{57aac9b505ede5fcfb4d5e2c6b8ab763}
+      \strng{authornamehash}{57aac9b505ede5fcfb4d5e2c6b8ab763}
+      \strng{authorfullhash}{57aac9b505ede5fcfb4d5e2c6b8ab763}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Templates de sites gratuitos}
+      \field{title}{Free CSS | 3193 Free Website Templates, CSS Templates and Open Source Templates}
+      \field{urlday}{23}
+      \field{urlmonth}{11}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.free-css.com/template-categories/portfolio
+      \endverb
+      \verb{url}
+      \verb https://www.free-css.com/template-categories/portfolio
+      \endverb
+    \endentry
+    \entry{stacked}{online}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=daf1f6f74356c0b6adaa6706e0b12ec1}{%
+           family={CSS},
+           familyi={C\bibinitperiod},
+           given={TemplateMo\bibnamedelimb -\bibnamedelima Free},
+           giveni={T\bibinitperiod\bibinitdelim \bibinithyphendelim \bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{daf1f6f74356c0b6adaa6706e0b12ec1}
+      \strng{fullhash}{daf1f6f74356c0b6adaa6706e0b12ec1}
+      \strng{bibnamehash}{daf1f6f74356c0b6adaa6706e0b12ec1}
+      \strng{authorbibnamehash}{daf1f6f74356c0b6adaa6706e0b12ec1}
+      \strng{authornamehash}{daf1f6f74356c0b6adaa6706e0b12ec1}
+      \strng{authorfullhash}{daf1f6f74356c0b6adaa6706e0b12ec1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Modelo de portfolio}
+      \field{title}{Modelo Stacked - Free CSS}
+      \field{urlday}{23}
+      \field{urlmonth}{11}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.free-css.com/free-css-templates/page242/stacked
+      \endverb
+      \verb{url}
+      \verb https://www.free-css.com/free-css-templates/page242/stacked
+      \endverb
+    \endentry
+    \entry{gitpages}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e1adbcbb92c622d0b3e619f9d0730abf}{%
+           family={Github},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{e1adbcbb92c622d0b3e619f9d0730abf}
+      \strng{fullhash}{e1adbcbb92c622d0b3e619f9d0730abf}
+      \strng{bibnamehash}{e1adbcbb92c622d0b3e619f9d0730abf}
+      \strng{authorbibnamehash}{e1adbcbb92c622d0b3e619f9d0730abf}
+      \strng{authornamehash}{e1adbcbb92c622d0b3e619f9d0730abf}
+      \strng{authorfullhash}{e1adbcbb92c622d0b3e619f9d0730abf}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Serviço de hospedagem de sites gratuito}
+      \field{title}{GitHub Pages - Websites for you and your projects.}
+      \field{urlday}{23}
+      \field{urlmonth}{11}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.wix.com/
+      \endverb
+      \verb{url}
+      \verb https://www.wix.com/
+      \endverb
+    \endentry
+    \entry{europass}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=427960bda70af244255836c78922479c}{%
            family={União\bibnamedelima Europeia},
@@ -99,12 +268,10 @@
       }
       \strng{namehash}{427960bda70af244255836c78922479c}
       \strng{fullhash}{427960bda70af244255836c78922479c}
-      \strng{fullhashraw}{427960bda70af244255836c78922479c}
       \strng{bibnamehash}{427960bda70af244255836c78922479c}
       \strng{authorbibnamehash}{427960bda70af244255836c78922479c}
       \strng{authornamehash}{427960bda70af244255836c78922479c}
       \strng{authorfullhash}{427960bda70af244255836c78922479c}
-      \strng{authorfullhashraw}{427960bda70af244255836c78922479c}
       \field{sortinit}{U}
       \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
       \field{extradatescope}{labelyear}
@@ -114,7 +281,7 @@
       \field{labeltitlesource}{title}
       \field{note}{Criador de CV online}
       \field{title}{EUROPASS}
-      \field{urlday}{13}
+      \field{urlday}{23}
       \field{urlmonth}{11}
       \field{urlyear}{2024}
       \field{year}{2024}
@@ -124,41 +291,6 @@
       \endverb
       \verb{url}
       \verb https://europa.eu/europass/eportfolio/screen/cv-editor?lang=pt
-      \endverb
-    \endentry
-    \entry{wix}{online}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=c4864f72bea486b18e3ffd467756e7a7}{%
-           family={WIX},
-           familyi={W\bibinitperiod}}}%
-      }
-      \strng{namehash}{c4864f72bea486b18e3ffd467756e7a7}
-      \strng{fullhash}{c4864f72bea486b18e3ffd467756e7a7}
-      \strng{fullhashraw}{c4864f72bea486b18e3ffd467756e7a7}
-      \strng{bibnamehash}{c4864f72bea486b18e3ffd467756e7a7}
-      \strng{authorbibnamehash}{c4864f72bea486b18e3ffd467756e7a7}
-      \strng{authornamehash}{c4864f72bea486b18e3ffd467756e7a7}
-      \strng{authorfullhash}{c4864f72bea486b18e3ffd467756e7a7}
-      \strng{authorfullhashraw}{c4864f72bea486b18e3ffd467756e7a7}
-      \field{sortinit}{W}
-      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{Criador de Portfólio online}
-      \field{title}{WIX - Crie um website sem limites}
-      \field{urlday}{13}
-      \field{urlmonth}{11}
-      \field{urlyear}{2024}
-      \field{year}{2024}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb https://www.wix.com/
-      \endverb
-      \verb{url}
-      \verb https://www.wix.com/
       \endverb
     \endentry
   \enddatalist

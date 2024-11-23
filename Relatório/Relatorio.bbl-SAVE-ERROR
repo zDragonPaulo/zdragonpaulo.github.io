@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.3 $
+% $ biblatex bbl format version 3.2 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -16,5 +16,144 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global}
+    \entry{gitpages}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e1adbcbb92c622d0b3e619f9d0730abf}{%
+           family={Github},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{e1adbcbb92c622d0b3e619f9d0730abf}
+      \strng{fullhash}{e1adbcbb92c622d0b3e619f9d0730abf}
+      \strng{bibnamehash}{e1adbcbb92c622d0b3e619f9d0730abf}
+      \strng{authorbibnamehash}{e1adbcbb92c622d0b3e619f9d0730abf}
+      \strng{authornamehash}{e1adbcbb92c622d0b3e619f9d0730abf}
+      \strng{authorfullhash}{e1adbcbb92c622d0b3e619f9d0730abf}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Serviço de hospedagem de sites gratuito}
+      \field{title}{GitHub Pages - Websites for you and your projects.}
+      \field{urlday}{23}
+      \field{urlmonth}{11}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.wix.com/
+      \endverb
+      \verb{url}
+      \verb https://www.wix.com/
+      \endverb
+    \endentry
+    \entry{europass}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=427960bda70af244255836c78922479c}{%
+           family={União\bibnamedelima Europeia},
+           familyi={U\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{427960bda70af244255836c78922479c}
+      \strng{fullhash}{427960bda70af244255836c78922479c}
+      \strng{bibnamehash}{427960bda70af244255836c78922479c}
+      \strng{authorbibnamehash}{427960bda70af244255836c78922479c}
+      \strng{authornamehash}{427960bda70af244255836c78922479c}
+      \strng{authorfullhash}{427960bda70af244255836c78922479c}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Criador de CV online}
+      \field{title}{EUROPASS}
+      \field{urlday}{23}
+      \field{urlmonth}{11}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://europa.eu/europass/eportfolio/screen/cv-editor?lang=pt
+      \endverb
+      \verb{url}
+      \verb https://europa.eu/europass/eportfolio/screen/cv-editor?lang=pt
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global}
+    \entry{gitpages}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e1adbcbb92c622d0b3e619f9d0730abf}{%
+           family={Github},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{e1adbcbb92c622d0b3e619f9d0730abf}
+      \strng{fullhash}{e1adbcbb92c622d0b3e619f9d0730abf}
+      \strng{bibnamehash}{e1adbcbb92c622d0b3e619f9d0730abf}
+      \strng{authorbibnamehash}{e1adbcbb92c622d0b3e619f9d0730abf}
+      \strng{authornamehash}{e1adbcbb92c622d0b3e619f9d0730abf}
+      \strng{authorfullhash}{e1adbcbb92c622d0b3e619f9d0730abf}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Serviço de hospedagem de sites gratuito}
+      \field{title}{GitHub Pages - Websites for you and your projects.}
+      \field{urlday}{23}
+      \field{urlmonth}{11}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.wix.com/
+      \endverb
+      \verb{url}
+      \verb https://www.wix.com/
+      \endverb
+    \endentry
+    \entry{europass}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=427960bda70af244255836c78922479c}{%
+           family={União\bibnamedelima Europeia},
+           familyi={U\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{427960bda70af244255836c78922479c}
+      \strng{fullhash}{427960bda70af244255836c78922479c}
+      \strng{bibnamehash}{427960bda70af244255836c78922479c}
+      \strng{authorbibnamehash}{427960bda70af244255836c78922479c}
+      \strng{authornamehash}{427960bda70af244255836c78922479c}
+      \strng{authorfullhash}{427960bda70af244255836c78922479c}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Criador de CV online}
+      \field{title}{EUROPASS}
+      \field{urlday}{23}
+      \field{urlmonth}{11}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://europa.eu/europass/eportfolio/screen/cv-editor?lang=pt
+      \endverb
+      \verb{url}
+      \verb https://europa.eu/europass/eportfolio/screen/cv-editor?lang=pt
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 
