@@ -1502,6 +1502,7 @@ ul {
 
   .about-box-content img {
     position: relative;
+    border-radius: 20px 20px 0 0px; ;
   }
 
   .about-content .about-box-text {
