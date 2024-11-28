@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber Relatorio"] 1732404705.13013 "Relatorio.bcf" "Relatorio.bbl" "Relatorio" 1732404890.88412 0
-  "Recursos/referencias.bib" 1732404044 1064 3c36c7c4c44045aeddf6eac0cc7de348 ""
-  "Relatorio.bcf" 1732404890 133201 62e3ce85aa57dc4dfcfc809489e2c016 "pdflatex"
+["biber Relatorio"] 1732826465.75577 "Relatorio.bcf" "Relatorio.bbl" "Relatorio" 1732832865.37497 0
+  "Recursos/referencias.bib" 1732826463 1068 a19c67a04b61f11eadbd8e87673e47c4 ""
+  "Relatorio.bcf" 1732832864 133201 62e3ce85aa57dc4dfcfc809489e2c016 "pdflatex"
   (generated)
   "Relatorio.bbl"
   "Relatorio.blg"
   (rewritten before read)
-["pdflatex"] 1732404888.0596 "c:/Users/amant/OneDrive - Instituto Politecnico de Beja/Relatórios-Trabalhos/3º ano/1º Semestre/DGC/Portfolio e CV/Relatório/Relatorio.tex" "Relatorio.pdf" "Relatorio" 1732404890.88537 0
+["pdflatex"] 1732832861.7465 "c:/Users/amant/OneDrive - Instituto Politecnico de Beja/Relatórios-Trabalhos/3º ano/1º Semestre/DGC/Portfolio e CV/Relatório/Relatorio.tex" "Relatorio.pdf" "Relatorio" 1732832865.37627 0
   "C:/Users/amant/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1730935578 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/amant/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1000.pk" 1729788150 25420 a2ba52055e72da8a9dca104ed6a96641 ""
   "C:/Users/amant/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk" 1729788142 31952 6f0fd3b323280953cb5bb3050f7355d5 ""
@@ -214,13 +214,13 @@
   "C:/Users/amant/AppData/Local/Programs/MiKTeX/tex/latex/xstring/xstring.sty" 1693735632 123 a302f2c651a95033260db60e51527ae8 ""
   "Recursos/Logos/IPBejaESTIG.jpg" 1731453100 24524 8256cc09fbb9140893a7ec292a0eb389 ""
   "Recursos/Logos/LOGO_IPB.png" 1731453100 70931 8e4fd2cd3676e6d3adc0f137d7334c9f ""
-  "Relatorio.aux" 1732404890 2030 af097e48debf9368aa5de65d3c0f6dcd "pdflatex"
-  "Relatorio.bbl" 1732404708 11765 d2d9872feec9f68e39c341214b8534e4 "biber Relatorio"
-  "Relatorio.out" 1732404890 654 32a9076151184c5cf442ad40c11f2f00 "pdflatex"
-  "Relatorio.run.xml" 1732404890 2410 717c0927f41f216f3cf4bba59bbfc439 "pdflatex"
-  "Relatorio.tex" 1732404885 8156 39c14e10b12f106ef46d483192e0ebff ""
-  "Relatorio.toc" 1732404890 336 b35bb1d85baa313016c9628b43d00f91 "pdflatex"
-  "c:/Users/amant/OneDrive - Instituto Politecnico de Beja/Relatórios-Trabalhos/3º ano/1º Semestre/DGC/Portfolio e CV/Relatório/Relatorio.tex" 1732404885 8156 39c14e10b12f106ef46d483192e0ebff ""
+  "Relatorio.aux" 1732832864 2030 e75c721cecb6eaa98068d5eae0d9eaf6 "pdflatex"
+  "Relatorio.bbl" 1732826473 11781 082e946e37c3fd7431459fba8af2d390 "biber Relatorio"
+  "Relatorio.out" 1732832864 654 32a9076151184c5cf442ad40c11f2f00 "pdflatex"
+  "Relatorio.run.xml" 1732832864 2410 717c0927f41f216f3cf4bba59bbfc439 "pdflatex"
+  "Relatorio.tex" 1732832860 8284 1af18375b8ea1a7c63d6c41dd7bc9dcc ""
+  "Relatorio.toc" 1732832864 336 b35bb1d85baa313016c9628b43d00f91 "pdflatex"
+  "c:/Users/amant/OneDrive - Instituto Politecnico de Beja/Relatórios-Trabalhos/3º ano/1º Semestre/DGC/Portfolio e CV/Relatório/Relatorio.tex" 1732832860 8284 1af18375b8ea1a7c63d6c41dd7bc9dcc ""
   (generated)
   "Relatorio.aux"
   "Relatorio.bcf"
