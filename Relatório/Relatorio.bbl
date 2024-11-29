@@ -155,6 +155,39 @@
       \verb https://europa.eu/europass/eportfolio/screen/cv-editor?lang=pt
       \endverb
     \endentry
+    \entry{WIX}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c4864f72bea486b18e3ffd467756e7a7}{%
+           family={WIX},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{c4864f72bea486b18e3ffd467756e7a7}
+      \strng{fullhash}{c4864f72bea486b18e3ffd467756e7a7}
+      \strng{bibnamehash}{c4864f72bea486b18e3ffd467756e7a7}
+      \strng{authorbibnamehash}{c4864f72bea486b18e3ffd467756e7a7}
+      \strng{authornamehash}{c4864f72bea486b18e3ffd467756e7a7}
+      \strng{authorfullhash}{c4864f72bea486b18e3ffd467756e7a7}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Criador de sites}
+      \field{title}{WIX}
+      \field{urlday}{23}
+      \field{urlmonth}{11}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.wix.com/
+      \endverb
+      \verb{url}
+      \verb https://www.wix.com/
+      \endverb
+    \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global}
     \entry{freecss}{online}{}
@@ -291,6 +324,39 @@
       \endverb
       \verb{url}
       \verb https://europa.eu/europass/eportfolio/screen/cv-editor?lang=pt
+      \endverb
+    \endentry
+    \entry{WIX}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c4864f72bea486b18e3ffd467756e7a7}{%
+           family={WIX},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{c4864f72bea486b18e3ffd467756e7a7}
+      \strng{fullhash}{c4864f72bea486b18e3ffd467756e7a7}
+      \strng{bibnamehash}{c4864f72bea486b18e3ffd467756e7a7}
+      \strng{authorbibnamehash}{c4864f72bea486b18e3ffd467756e7a7}
+      \strng{authornamehash}{c4864f72bea486b18e3ffd467756e7a7}
+      \strng{authorfullhash}{c4864f72bea486b18e3ffd467756e7a7}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Criador de sites}
+      \field{title}{WIX}
+      \field{urlday}{23}
+      \field{urlmonth}{11}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.wix.com/
+      \endverb
+      \verb{url}
+      \verb https://www.wix.com/
       \endverb
     \endentry
   \enddatalist
